@@ -68,7 +68,15 @@ Additionally, Brimm seeks to empower the user to mould their data and workflows 
 
 - Deriving new facts (either on read or on transaction)
 
+
+https://github.com/zeitstein/brimm/assets/8146007/ee2f535d-571d-4a7a-a1ab-e3b1fc8f1417
+
+
 - Writing a server-side script to populate relevant info for the bookmark block.
+
+
+https://github.com/zeitstein/brimm/assets/8146007/54f8fea6-1bc1-4391-8c23-62530815af75
+
 
 
 ### Queries and views
