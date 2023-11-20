@@ -73,19 +73,17 @@ Additionally, Brimm seeks to empower the user to mould their data and workflows 
 - Deriving new facts (either on read or on transaction)
 
 
-https://github.com/zeitstein/brimm/assets/8146007/ee2f535d-571d-4a7a-a1ab-e3b1fc8f1417
+https://github.com/zeitstein/brimm/assets/8146007/bbc31a53-4cc1-4ee4-9108-075de8519315
 
 
 - Writing a server-side script to populate relevant info for the bookmark block.
 
-
-https://github.com/zeitstein/brimm/assets/8146007/54f8fea6-1bc1-4391-8c23-62530815af75
+https://github.com/zeitstein/brimm/assets/8146007/cc7ea3a9-0193-4bdd-a078-3dd5d6a1c7af
 
 
 Finally, here's one random feature I'm excited about: displaying the number of todos within all blocks.
 
-
-https://github.com/zeitstein/brimm/assets/8146007/5abf65a7-94fc-4e38-8433-26049f0a0d12
+https://github.com/zeitstein/brimm/assets/8146007/9924e69d-d8d5-4558-be36-29d66128726f
 
 
 
