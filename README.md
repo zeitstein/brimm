@@ -1,13 +1,16 @@
 # Brimm
 
+Notion-inspired versatile knowledge management backed by a graph you own, full stack and open source. Coming Q1 2024.
+
+> [!TIP]
+> See Brimm in action in this early 5-minute demo:
+> [![Demo on Youtube](docs/yt-demo-screenshot.png)](https://www.youtube.com/watch?v=8fgIwCQHMRg).
+
 ## What
 
 The shortest path to understanding **Brimm** is to understand its primary motivation: to combine Notion’s database and document editing experience with the structural flexibility of infinite outliners (apps like Workflowy or Logseq).
 
 Brimm lets you model data as blocks of many shapes (text, tasks, bookmarks, personal info, events, books, music albums, contact info, etc.), categorise and organise it, make connections, and search across it. You can mark a block as todo anywhere, then create a table listing all todos due today, whether from your entire database or a single project. You can list all paragraphs in need of revision from a blog post you’re writing. Or create a gallery of your favourite grunge albums.
-
-> [!TIP]
-> You can see Brimm in action in this [early 5-minute demo](https://www.youtube.com/watch?v=8fgIwCQHMRg).
 
 Brimm is a full-stack web app, with the backend under the user’s control. Unlike Notion, you own your data. Brimm will be open source across the stack.
 
