@@ -17,7 +17,7 @@ Brimm is a [full-stack web app](#tech-stack), with the backend under the user’
 
 The broader vision for Brimm is to provide you with a capable personal/team graph database with a default UI. While the default interface covers many use cases, you *should* be able to work with your data through [other interfaces/applications](#embracing-the-backend).
 
-Brimm is in active development, with a public release [planned for Q1 2024](#when).
+Brimm is in active development, with a public release [planned for Q1 2024](#when). Consider [becoming a sponsor](#sponsor-brimm).
 
 ## Why
 
