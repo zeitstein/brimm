@@ -11,13 +11,13 @@ Notion-inspired versatile knowledge management backed by a graph you own, full s
 
 The shortest path to understanding **Brimm** is to understand its primary motivation: to combine Notion’s database and document editing experience with the structural flexibility of infinite outliners (apps like Workflowy or Logseq).
 
-Brimm lets you model data as blocks of many shapes (text, tasks, bookmarks, personal info, events, books, music albums, contact info, etc.), categorise and organise it, make connections, and search across it. You can mark a block as todo anywhere, then create a table listing all todos due today, whether from your entire database or a single project. You can list all paragraphs in need of revision from a blog post you’re writing. Or create a gallery of your favourite grunge albums.
+Brimm lets you model data as [blocks of many shapes](#how) (text, tasks, bookmarks, personal info, events, books, music albums, contact info, etc.), categorise and organise it, make connections, and search across it. You can mark a block as todo anywhere, then [create a table](#queries-and-views) listing all todos due today, whether from your entire database or a single project. You can list all paragraphs in need of revision from a blog post you’re writing. Or create a gallery of your favourite grunge albums.
 
-Brimm is a full-stack web app, with the backend under the user’s control. Unlike Notion, you own your data. Brimm will be open source across the stack.
+Brimm is a [full-stack web app](#tech-stack), with the backend under the user’s control. Unlike Notion, you own your data. Brimm will be open source across the stack.
 
-The broader vision for Brimm is to provide you with a capable personal/team graph database with a default UI. While the default interface covers many use cases, you *should* be able to work with your data through other interfaces/applications.
+The broader vision for Brimm is to provide you with a capable personal/team graph database with a default UI. While the default interface covers many use cases, you *should* be able to work with your data through [other interfaces/applications](#embracing-the-backend).
 
-Brimm is in active development, with a public release planned for Q1 2024.
+Brimm is in active development, with a public release [planned for Q1 2024](#when).
 
 ## Why
 
@@ -31,7 +31,7 @@ Here is what Brimm brings to the table.
 
 ### Going beyond outliners and documents
 
-The “graph of nodes with properties” structure can model many kinds of data and this is one thing I wish to lean into with Brimm. As a starting point, Brimm recognises that the information we work with comes in many shapes: text, tasks, bookmarks, contact info, events, books, music albums and so on.
+The “graph of nodes with properties” structure can model many kinds of data and this is one thing I wish to lean into with Brimm. As a starting point, Brimm recognises that the information we work with comes in many shapes: text, tasks, bookmarks, contact info, events, books, music albums and so on. More details [below](#how).
 
 Beyond that, I think interfaces/features like those of, say, Reddit or Twitter can be naturally modelled with this architecture. For instance, hosting Brimm’s documentation, project management and forums through the default Brimm UI (enabling situated discussions and transparent references to what is being discussed) seems within reach.
 
