@@ -4,7 +4,8 @@ Notion-inspired versatile knowledge management backed by a graph you own, full s
 
 > [!TIP]
 > See Brimm in action in this early 5-minute demo:
-> [![Demo on Youtube](docs/yt-demo-screenshot.png)](https://www.youtube.com/watch?v=8fgIwCQHMRg).
+>
+> [![Demo on Youtube](docs/yt-demo-screenshot.png)](https://www.youtube.com/watch?v=8fgIwCQHMRg)
 
 ## What
 
