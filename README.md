@@ -82,6 +82,12 @@ https://github.com/zeitstein/brimm/assets/8146007/ee2f535d-571d-4a7a-a1ab-e3b1fc
 https://github.com/zeitstein/brimm/assets/8146007/54f8fea6-1bc1-4391-8c23-62530815af75
 
 
+Finally, here's one random feature I'm excited about: displaying how many todos there are within a block.
+
+
+https://github.com/zeitstein/brimm/assets/8146007/5abf65a7-94fc-4e38-8433-26049f0a0d12
+
+
 
 ### Queries and views
 
