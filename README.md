@@ -101,6 +101,8 @@ Query building example:
 
 Needless to say, Notion’s databases have been a guiding implementation. However, Brimm views can query/filter blocks across your whole database, not just a single database like in Notion.
 
+You can read more about views [here](docs/queries-and-views.md).
+
 ### Brimm’s data model
 
 Let’s zoom in on a block:
