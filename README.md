@@ -68,6 +68,9 @@ Here are four block types and layouts, clockwise: bookmark, video, person and me
 
 ![Block type and layout examples](docs/block-examples.png)
 
+> [!TIP]
+> You can get a taste of working with types in [this demo](https://youtu.be/uZ0gbQ9xztw) (creating and evolving a task block type).
+
 Additionally, Brimm seeks to empower the user to mould their data and workflows using Clojure through [SCI](https://github.com/babashka/sci). A couple of examples:
 
 - Deriving new facts (either on read or on transaction)
