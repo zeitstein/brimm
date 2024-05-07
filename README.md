@@ -1,11 +1,13 @@
 # Brimm
 
-Notion-inspired versatile knowledge management backed by a graph you own, full stack and open source. Coming Q1 2024.
+Notion-inspired versatile knowledge management backed by a graph you own, full stack and open source. Coming 2024.
 
 > [!TIP]
-> See Brimm in action in this early 5-minute demo:
+> See Brimm in action:
 >
-> [![Demo on Youtube](docs/yt-demo-screenshot.png)](https://www.youtube.com/watch?v=8fgIwCQHMRg)
+> [![London Clojurians talk - UI tour](docs/yt-screenshot.png)](https://youtu.be/QfLe13Ws5KM?si=AQsiPZVPzd_GiDJ4&t=842)
+
+More videos on [YouTube channel](https://www.youtube.com/@filipjurukovic).
 
 ## What
 
@@ -17,7 +19,7 @@ Brimm is a [full-stack web app](#tech-stack), with the backend under the user’
 
 The broader vision for Brimm is to provide you with a capable personal/team graph database with a default UI. While the default interface covers many use cases, you *should* be able to work with your data through [other interfaces/applications](#embracing-the-backend).
 
-Brimm is in active development, with a public release [planned for Q1 2024](#when). Consider [becoming a sponsor](#sponsor-brimm).
+Brimm is in active development, with a public release [planned for 2024](#when). Consider [becoming a sponsor](#sponsor-brimm).
 
 ## Why
 
@@ -194,7 +196,7 @@ A server API will be added. I find [Atomic Architecture](https://www.juxt.pro/bl
 
 Brimm is in active development. Roadmap:
 
-- Open source local single-player in Q1 2024. To do:
+- Open source local single-player in 2024. To do:
     - finalise systems design
     - base UI polish
     - query and views UI
