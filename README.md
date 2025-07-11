@@ -121,4 +121,4 @@ I would like to thank:
 - [Pawel Ceranka](https://github.com/qazwsxpawel) and [Malcolm Sparks](https://github.com/malcolmsparks) for broadening my perspective.
 - [Thomas Heller](https://github.com/thheller) for patient [shadow-grove](https://github.com/thheller/shadow-grove) discussions.
 
-Brimm uses Tabler icons, see license in `resources/public/icons/tabler-license`.
+Brimm uses Tabler icons, see license [here](resources/public/icons/tabler-license).
