@@ -219,6 +219,8 @@ Feedback and suggestions are very welcome. Join the discussion in [#brimm](https
 
 ## Acknowledgements
 
+Brimm user Tabler icons (see license in `resources/public/icons/tabler-license`.)
+
 I would like to thank:
 
 - [Sofija Marjanović](https://www.linkedin.com/in/sofija-marjanovic) who has supported this project from earliest seedlings, including discussions and design contributions.
